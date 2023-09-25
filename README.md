@@ -6,6 +6,19 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 
 ---
 ---
+#### mistakes
+I misunderstood “random” as defining a function and placed it in the setup section, so the drawn pattern could not be displayed initially.
+then I found it in the week 03 repo on the Internet
+so correct it
+
+#### drawing concept
+use the grid but draw around the grid by random
+![idea craft ](![DCwh42.jpg](https://imgpile.com/images/DCwh42.jpg))
+
+# questions
+but I found that if I want to random choose 1 of 3, it doesn't work with "random(5,10,20)"? "random(5,10,20)" works the same as random(5,10)?
+
+
 
 # Heading1
 ## Heading2
