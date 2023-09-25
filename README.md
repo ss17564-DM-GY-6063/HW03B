@@ -15,8 +15,10 @@ so correct it
 use the grid but draw around the grid by random
 ![idea craft ](![DCwh42.jpg](https://imgpile.com/images/DCwh42.jpg))
 
-# questions
+# questions (update got it!)
 but I found that if I want to random choose 1 of 3, it doesn't work with "random(5,10,20)"? "random(5,10,20)" works the same as random(5,10)?
+https://dm-gy-6063-2023f-d.github.io/tutorial/random-lottery/
+use "if" to control the possibility
 
 
 
