@@ -1,13 +1,13 @@
 let eDiam = 80;
 
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
-  background(240,215,0);
-  fill("black");
+  background(255);
+  fill("red");
+  noStroke();
   randomSeed(22);
 
   for (let xpos = 0; xpos <= width; xpos += eDiam) {
